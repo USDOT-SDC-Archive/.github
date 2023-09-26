@@ -1,6 +1,6 @@
-# Secure Data Commons
+# Secure Data Commons Archive
 
-The Secure Data Commons (SDC) will provide a secure data science platform that enables collaborative research involving moderately sensitive data and create an outstanding climate of support for traffic engineers, researchers, and data scientists. This GitHub organization contains the SDC's archived repositories.
+The Secure Data Commons (SDC) will provide a secure data science platform that enables collaborative research involving moderately sensitive data and create an outstanding climate of support for traffic engineers, researchers, and data scientists. This GitHub organization contains the SDC's archived repositories. Active projects and repositories are in the [Secure Data Commons](https://github.com/USDOT-SDC) organization.
 
 ## Public domain
 These projects and repositories are in the worldwide [public domain](LICENSE.md):
